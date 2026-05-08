@@ -1,5 +1,4 @@
-python-telegram-bot==22.4
+python-telegram-bot[job-queue]==22.4
 telethon==1.36.0
 aiohttp
-python-telegram-bot[job-queue]
-httpx 
+httpx
